@@ -5,3 +5,4 @@ export './circle_avatar.dart';
 export './create_stories.dart';
 export './story_card.dart';
 export './create_posts.dart';
+export 'custom_tab_bar.dart';
